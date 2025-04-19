@@ -35,7 +35,9 @@ rm -r results
 
 #### Attention:
 
-OpenAI has [shut down](https://platform.openai.com/docs/deprecations/2023-07-06-gpt-and-embeddings) the *Text Completion API* for the GPT-3 model series (`ada`,`babbage`,`curie`,`davinci`) as of January 4th, 2024. If you wish to apply the DivLog framework on other OpenAI *Chat Completion APIs* and re-run all the results, you may need to modify the API request in `BatchParse` of `DivLog.py`. Specifically, you need to replace the original API request design for GPT-3 models with the latest Chat Completion API:
+OpenAI has [shut down](https://platform.openai.com/docs/deprecations/2023-07-06-gpt-and-embeddings) the *Text Completion API* for the GPT-3 model series (`ada`,`babbage`,`curie`,`davinci`) as of January 4th, 2024. We recommend you to use other *base models* (rather than *instruct models*) for replicate DivLog since the instruction alignment may affect the ICL capability. Since DivLog framework is *decoupled* with the model backbone, we recommend to use the *same* model as your own method if you wish to use DivLog as a baseline for log parsing comparison.
+
+However, if you wish to apply the DivLog framework on other OpenAI *Chat Completion APIs* (which are instruct models) and re-run all the results, you may need to modify the API request in `BatchParse` of `DivLog.py`. Specifically, you need to replace the original API request design for GPT-3 models with the latest Chat Completion API:
 
 ```python
 ### Replace it
@@ -47,7 +49,6 @@ response = openai.Completion.create(
 ```
 
 More details about APIs can be found [here](https://platform.openai.com/docs/api-reference/chat).
-
 
 ### Benchmark
 
