@@ -223,7 +223,7 @@ If you use our logparser tools or benchmarking results in your publication, plea
 		</tr>
 	<tbody>
 </table>
-<!-- readme: zhujiem,PinjiaHe,JinYang88,contributors -end -->
+<!-- readme: zhujiem,contributors -end -->
 
 ### Discussion
 Welcome to join our WeChat group for any question and discussion. Alternatively, you can [open an issue here](https://github.com/logpai/logparser/issues/new).
