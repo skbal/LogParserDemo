@@ -170,14 +170,26 @@ If you use our logparser tools or benchmarking results in your publication, plea
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/PinjiaHe">
+                    <img src="https://avatars.githubusercontent.com/u/5793028?v=4" width="80;" alt="PinjiaHe"/>
+                    <br />
+                    <sub><b>Pinjia He</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/JinYang88">
+                    <img src="https://avatars.githubusercontent.com/u/22317155?v=4" width="80;" alt="JinYang88"/>
+                    <br />
+                    <sub><b>LIU, Jinyang</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Siyuexi">
                     <img src="https://avatars.githubusercontent.com/u/50619651?v=4" width="80;" alt="Siyuexi"/>
                     <br />
                     <sub><b>Junjielong Xu</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/ShilinHe">
                     <img src="https://avatars.githubusercontent.com/u/10590876?v=4" width="80;" alt="ShilinHe"/>
@@ -186,10 +198,19 @@ If you use our logparser tools or benchmarking results in your publication, plea
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/JoeHitHard">
-                    <img src="https://avatars.githubusercontent.com/u/29425534?v=4" width="80;" alt="JoeHitHard"/>
+                <a href="https://github.com/JosephMeghanathD">
+                    <img src="https://avatars.githubusercontent.com/u/29425534?v=4" width="80;" alt="JosephMeghanathD"/>
                     <br />
-                    <sub><b>Joseph Hit Hard</b></sub>
+                    <sub><b>Joseph</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/jcordon5">
+                    <img src="https://avatars.githubusercontent.com/u/82608613?v=4" width="80;" alt="jcordon5"/>
+                    <br />
+                    <sub><b>José A. Cordón </b></sub>
                 </a>
             </td>
             <td align="center">
