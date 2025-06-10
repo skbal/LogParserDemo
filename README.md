@@ -158,7 +158,7 @@ If you use our logparser tools or benchmarking results in your publication, plea
 
 ### 🤗 Contributors
 
-<!-- readme: zhujiem,PinjiaHe,JinYang88,contributors -start -->
+<!-- readme: zhujiem,contributors -start -->
 <table>
 	<tbody>
 		<tr>
@@ -167,34 +167,6 @@ If you use our logparser tools or benchmarking results in your publication, plea
                     <img src="https://avatars.githubusercontent.com/u/7032227?v=4" width="80;" alt="zhujiem"/>
                     <br />
                     <sub><b>Zhujiem</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/pinjiahe">
-                    <img src="https://avatars.githubusercontent.com/u/5793028?v=4" width="80;" alt="pinjiahe"/>
-                    <br />
-                    <sub><b>Pinjia He</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/jinyang88">
-                    <img src="https://avatars.githubusercontent.com/u/22317155?v=4" width="80;" alt="jinyang88"/>
-                    <br />
-                    <sub><b>LIU, Jinyang</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/PinjiaHe">
-                    <img src="https://avatars.githubusercontent.com/u/5793028?v=4" width="80;" alt="PinjiaHe"/>
-                    <br />
-                    <sub><b>Pinjia He</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/JinYang88">
-                    <img src="https://avatars.githubusercontent.com/u/22317155?v=4" width="80;" alt="JinYang88"/>
-                    <br />
-                    <sub><b>LIU, Jinyang</b></sub>
                 </a>
             </td>
             <td align="center">
