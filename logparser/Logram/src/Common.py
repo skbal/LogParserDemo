@@ -15,7 +15,7 @@ MyRegex = [
 def preprocess(logLine, specialRegex):
     line = logLine
     for regex in specialRegex:
-        line = re.sub(regex, "<*>", " " + logLine)
+        line = re.sub(regex, "<*>", " " + line)
     return line
 
 
